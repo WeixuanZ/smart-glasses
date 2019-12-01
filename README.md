@@ -4,6 +4,8 @@ Inspired by a wish from my friend who raced against me doing mental arithmetic, 
 
 ![](cover.png)
 
+![](model.gif)
+
 ![](testing.png)
 
 *Archived. 2018 Summer*
