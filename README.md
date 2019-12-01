@@ -4,6 +4,6 @@ Inspired by a wish from my friend who raced against me doing mental arithmetic, 
 
 ![](cover.png)
 
-For more details, please see the [write up](WriteUp.pdf).
+![](testing1.png) ![](testing2.png)
 
 *Archived. 2018 Summer*
